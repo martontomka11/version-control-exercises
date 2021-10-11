@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I am adding some data here as well.
 Testing again.
+=======
+I am adding a few lines to this file.
+After that I am going to pull.
+Just testing.
+>>>>>>> caf49abdbea66a0103aec16afcbe59af4c751121
